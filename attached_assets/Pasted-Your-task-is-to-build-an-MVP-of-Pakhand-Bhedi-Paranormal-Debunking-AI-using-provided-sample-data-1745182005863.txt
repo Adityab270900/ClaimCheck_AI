@@ -1,4 +1,4 @@
-Your task is to build an MVP of “Pakhand Bhedi” (Paranormal Debunking AI) using provided sample datasets. Follow these steps:
+Task is to build an MVP of “Pakhand Bhedi” (Paranormal Debunking AI) using provided sample datasets. Follow these steps:
 
 1. **Data Ingestion & Preprocessing**  
    • Load sample datasets for paranormal claims (CSV/JSON) and a small corpus of “myth” articles (PDFs, text files).  
